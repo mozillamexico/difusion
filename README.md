@@ -19,4 +19,4 @@ Comunícanoslo, estaremos gustos de apoyarte.
 
 ## Licencia
 
-Este proyecto está liberado bajo la licencia MPL 2.0 - ve el archivo [LICENSE.md](LICENSE.md) para más detalles
+Este proyecto está liberado bajo la licencia MPL 2.0 - ve el archivo LICENSE para más detalles
