@@ -18,7 +18,7 @@ En concordancia con los valores y principios de Mozilla México, los documentos 
 * MP4, WEBM (video)
 * JPG, PNG, GIF, TIFF, RAW (imagen)
 
-En caso de ser necesario algún software específico para editar el contenido, este vendrá descrito dentro de la carpeta contenedora del contenido
+En caso de ser necesario algún software específico para editar el contenido (y para facilitar la labor de nuevos miembros), este vendrá descrito dentro de la carpeta contenedora del contenido
 
 ```
 Por ejemplo: Se recomienda el uso de Blender para la edición de los archivos de esta carpeta.
