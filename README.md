@@ -3,7 +3,7 @@ Compendio de materiales y herramientas multimedia que permite tanto al equipo de
 
 ## Por dónde empezar
 
-Este proyecto se encuentra en fase de preproducción por lo que por el momento concentramos nuestros esfuerzos en reunir el material existente para ordenar, catalogar y evalura la necesidad de generar nuevas herramientas que ayuden al propósito del mismo. Si encuentras algún material que no exista y que pueda servir al proyecto por favor intégralo, te lo agradeceremos.
+Este proyecto se encuentra en fase de preproducción por lo que por el momento concentramos nuestros esfuerzos en reunir el material existente para ordenar, catalogar y evaluar la necesidad de generar nuevas herramientas que ayuden al propósito del mismo. Si encuentras algún material que no exista y que pueda servir al proyecto por favor intégralo, te lo agradeceremos.
 
 ### Prerequisitos
 
