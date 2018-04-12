@@ -1,2 +1,2 @@
 # difusion
-Material generado para la difusipon del proyecto
+Material generado para la difusión del proyecto Mozilla
