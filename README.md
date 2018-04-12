@@ -7,13 +7,13 @@ Este proyecto se encuentra en fase de preproducción por lo que por el momento c
 
 ### Prerequisitos
 
-En concordancia con los valores y principios de Mozilla México, los documentos aquí contenidos deben estar dentro de algún estandar abierto, por ejemplo:
+En concordancia con los valores y principios de Mozilla México, los documentos aquí contenidos deben estar bajo un formato de algún estandar abierto, por citar algunos:
 * Texto plano
 * Markdonw (como este documento)
 * OpenDocument (odt, ods, odp...)
 * HTML (En caso de ser contenido web)
 * SVG (Imágenes vectoriales)
-* .Blend (3D)
+* BLEND (3D)
 * FLAC, OGG (audio)
 * MP4, WEBM (video)
 * JPG, PNG, GIF, TIFF, RAW (imagen)
