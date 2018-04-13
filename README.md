@@ -39,7 +39,7 @@ canción de firefox.ogg => CancionDeFirefox.ogg
 
 ## ¿Planeas algún esfuerzo de difusión en tu comunidad?
 
-Comunícanoslo, estaremos gustos de apoyarte.
+Comunícanoslo via [CHAT](http://www.mozilla-mexico.org/chat/) o cualquiera de nuestras formas de contacto [Ver más](http://www.mozilla-mexico.org/).
 
 ## Licencia
 
