@@ -5,7 +5,7 @@ Aquí se tiene un listado de los distintos proyectos de Mozilla México [ver en 
 ## Proyectos vigentes
 
 * Sitio web mozilla-mexico.org
-* L10n Traducción y tropicalización de los proyectos de Mozilla
+* L10n:Teams:es-MX Traducción y tropicalización de los proyectos de Mozilla a español y lenguas indígenas de México
 * SUMO (SUpport MOzilla's official blog): Blog oficial de soporte de Mozilla
 * RUST: Lenguaje de programación
 * Derechos digitales: Buscar que la seguridad y la privacidad en Internet sean un derecho.
