@@ -5,7 +5,9 @@ Compendio de materiales y herramientas multimedia que permite tanto al equipo de
 
 Este proyecto se encuentra en fase de preproducción por lo que por el momento concentramos nuestros esfuerzos en reunir el material existente para ordenar, catalogar y evaluar la necesidad de generar nuevas herramientas que ayuden al propósito del mismo. Si encuentras algún material que no exista y que pueda servir al proyecto por favor intégralo, te lo agradeceremos.
 
-### Prerequisitos
+## Prerequisitos
+
+### Formatos
 
 En concordancia con los valores y principios de Mozilla México, los documentos aquí contenidos deben estar bajo un formato de algún estandar abierto, por citar algunos:
 * Texto plano
@@ -22,6 +24,17 @@ En caso de ser necesario algún software específico para editar el contenido (y
 
 ```
 Por ejemplo: Se recomienda el uso de Blender para la edición de los archivos de esta carpeta.
+```
+
+### Nomenclatura CamelCase
+
+Se recomienda el uso de [CamelCase](https://es.wikipedia.org/wiki/CamelCase) sin acentos para la nomenclatura de archivos para evitar cualquier problema de compatibilidad.
+
+```
+Algunos ejemplos:
+el archivo de texto.odt => ElArchivoDeTexto.odt
+logotipos con árboles.png => LogotiposConArboles.png
+canción de firefox.ogg => CancionDeFirefox.ogg
 ```
 
 ## ¿Planeas algún esfuerzo de difusión en tu comunidad?
