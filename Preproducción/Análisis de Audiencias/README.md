@@ -5,3 +5,4 @@ Contenido para identificar y planificar estrategias de difusión para las distin
 ## Archivos de esta carpeta
 
 * [AudienciasDeMozillaMexico.dia](AudienciasDeMozillaMexico.dia): Diagrama para visualizar fácilmente las audiencias detectadas. Se recomienda el uso de [DIA](http://dia-installer.de/) para la edición del diagrama.
+  * [AudienciasDeMozillaMexico.png](AudienciasDeMozillaMexico.png): Imagen png exportada del AudienciasDeMozillaMexico.dia](AudienciasDeMozillaMexico.dia).
