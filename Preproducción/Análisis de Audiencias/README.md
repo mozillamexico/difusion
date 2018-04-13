@@ -4,4 +4,4 @@ Contenido para identificar y planificar estrategias de difusión para las distin
 
 ## Prerequisitos
 
-Se recomienda el uso de [http://dia-installer.de/](DIA) para la edición del diagrama (Audiencias de Mozilla Mexico.dia)
+Se recomienda el uso de [DIA](http://dia-installer.de/) para la edición del diagrama (Audiencias de Mozilla Mexico.dia)
