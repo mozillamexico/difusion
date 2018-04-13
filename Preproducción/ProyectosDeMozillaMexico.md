@@ -1,6 +1,6 @@
 # Proyectos de Mozilla México
 
-Aquí se tiene un listado de los distintos proyectos de Mozilla México
+Aquí se tiene un listado de los distintos proyectos de Mozilla México [ver en la wiki](https://wiki.mozilla.org/Mexico)
 
 ## Proyectos vigentes
 
