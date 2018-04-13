@@ -5,7 +5,7 @@ En esta carpeta se llevan tareas de análisis comunicativos tales como análisis
 
 ## Recursos
 
-### Logotipo / marca
+### Logotipo / marca (Mozilla a secas)
 
 * [Logotipo](https://mozilla.design/mlogo/)
 * [Directrices de la marca](https://mozilla.design/mlogo/)
