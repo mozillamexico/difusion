@@ -13,11 +13,11 @@ Aquí se tiene un listado de los distintos proyectos de Mozilla México [ver en 
 
 ## Eventos futuros
 
-* Abril: 28 de abril 2018 FLISOL
 * Junio: RustDay en la Ciudad de México
 
 ## Eventos pasados
 
+* Abril: 28 de abril 2018 FLISOL
 
 ## Proyectos Descontinuados
 
