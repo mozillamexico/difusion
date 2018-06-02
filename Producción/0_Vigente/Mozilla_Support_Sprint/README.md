@@ -8,7 +8,7 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 1) [Via Hangout](https://hangouts.google.com/call/NM2HhIntGEY7_Zc9CScYAAEE)
 2) Vía el grupo de telegram
 
-# ¿Cómo participar?
+# ¿Cómo registrarte?
 
 1) Ingresa a [este enlace](https://supportusers.mozilla.community/form/user-signup) para crear una cuenta para acceder a la aplicación
 
@@ -20,6 +20,9 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 
 4) Elige el idioma español ("spanish")
 ![Elige_idioma](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154821.png)
+
+5) Una vez terminado tu registro simplemente haz click en el link "Respond to reviews"
+![Respond_to_reviews](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154821.png)
 
 # Preguntas y respuestas frecuentes
 ## ¿Cómo instalo Mozilla Firefox en Android?
