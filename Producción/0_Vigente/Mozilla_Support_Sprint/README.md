@@ -22,7 +22,10 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 ![Elige_idioma](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154821.png)
 
 5) Una vez terminado tu registro simplemente haz click en el link "Respond to reviews"
-![Respond_to_reviews](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154821.png)
+![Respond to reviews](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_160002.png)
+
+6) Listo! Veras una pantalla similar a esta y ahora podrás responder las valoraciones de Firefox desde la aplicación oficial
+![Reviews](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_160641.png)
 
 # Preguntas y respuestas frecuentes
 ## ¿Cómo instalo Mozilla Firefox en Android?
