@@ -13,21 +13,19 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 1) Ingresa a [este enlace](https://supportusers.mozilla.community/form/user-signup) para crear una cuenta para acceder a la aplicación
 
 2) Ingresa tu nombre
-![Crea_una_cuenta](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png)
-
-<img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png" width="300" height="200" />
+<img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png" width="400" height="350" />
 
 3) Ingresa tu correo electrónico y contraseña
-![Ingresa_correo_y_contraseña](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154744.png)
+<img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154744.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154744.png" width="400" height="350" />
 
 4) Elige el idioma español ("spanish")
-![Elige_idioma](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154821.png)
+<img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154821.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154821.png" width="400" height="350" />
 
 5) Una vez terminado tu registro simplemente haz click en el link "Respond to reviews"
-![Respond to reviews](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_160002.png)
+<img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_160002.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_160002.png" width="400" height="350" />
 
 6) Listo! Veras una pantalla similar a esta y ahora podrás responder las valoraciones de Firefox desde la aplicación oficial
-![Reviews](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_160641.png)
+<img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_160641.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_160641.png" width="400" height="350" />
 
 # Preguntas y respuestas frecuentes
 ## ¿Cómo instalo Mozilla Firefox en Android?
