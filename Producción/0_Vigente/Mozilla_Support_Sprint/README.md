@@ -13,7 +13,7 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 1) Ingresa a [este enlace](https://supportusers.mozilla.community/form/user-signup) para crear una cuenta para acceder a la aplicación
 
 2) Ingresa tu nombre
-![Crea_una_cuenta](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png)
+![Crea_una_cuenta](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png =250x)
 
 3) Ingresa tu correo electrónico y contraseña
 ![Ingresa_correo_y_contraseña](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154744.png)
