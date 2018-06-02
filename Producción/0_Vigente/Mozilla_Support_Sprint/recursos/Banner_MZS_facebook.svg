@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="820"
+   height="312"
+   viewBox="0 0 216.95833 82.55"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Banner_MZS_facebook.svg"
+   inkscape:export-filename="/home/helix/Documentos/difusion/Producción/0_Vigente/Mozilla_Support_Sprint/recursos/Banner_MZS.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="378.49592"
+     inkscape:cy="163.61449"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-214.45)">
+    <image
+       sodipodi:absref="/home/helix/Documentos/difusion/Producción/0_Vigente/Mozilla_Support_Sprint/recursos/Fondo.png"
+       xlink:href="Fondo.png"
+       width="218.13702"
+       height="122.53164"
+       preserveAspectRatio="none"
+       id="image823"
+       x="-0.46990904"
+       y="207.49852" />
+    <g
+       id="g832"
+       transform="matrix(0.01528345,0,0,0.01528345,183.14478,284.37889)">
+      <rect
+         id="rect828"
+         height="571.90002"
+         width="2000"
+         y="0"
+         x="0" />
+      <path
+         id="path830"
+         d="m 1910.2,410.5 c -3.9,1.1 -7.2,1.7 -10.5,1.7 -11.7,0 -17.2,-5 -17.2,-19.4 V 284.1 c 0,-57.1 -45.5,-84.9 -99.3,-84.9 -41.1,0 -63.2,5 -107.1,22.7 l -9.8,57.6 57.1,6.1 8.1,-28.2 c 11.7,-6.1 23.3,-7.2 38.3,-7.2 40.5,0 41.1,30.5 41.1,56 v 8.3 c -12.8,-1.7 -27.2,-2.2 -41.1,-2.2 -57.1,0 -116.5,14.4 -116.5,76 0,52.1 41,71.6 77.1,71.6 40.5,0 66,-24.4 80.4,-49.9 3.3,30.5 21.6,49.9 54.9,49.9 15.5,0 31.6,-4.4 44.9,-11.7 z m -153.6,-1.6 c -21.6,0 -29.4,-12.8 -29.4,-28.9 0,-27.2 22.2,-34.4 47.7,-34.4 11.6,0 24.4,1.7 36.1,3.3 -1.7,41.7 -28.9,60 -54.4,60 z M 1660.5,72.7 1552.3,454.4 h -70.5 L 1590,72.7 Z m -145.3,0 -108.2,381.7 h -70.4 L 1444.8,72.7 Z m -300.4,131.5 h 74.9 V 294 h -74.9 z m 0,160.3 h 74.9 v 89.9 h -74.9 z m -109,-3.3 56.6,5.5 -15.5,87.7 H 928.3 l -7.2,-37.7 137.6,-158.1 h -78.2 l -11.1,38.8 -51.6,-5.6 8.9,-87.7 h 219.7 l 5.6,37.7 -138.8,158.2 h 81 z m -358.5,-162 c -89.9,0 -134.3,60.5 -134.3,133.7 0,79.9 53.3,127 130.4,127 79.9,0 137.6,-50.5 137.6,-130.4 0,-69.9 -43.9,-130.3 -133.7,-130.3 z M 745.6,405 c -38.8,0 -58.8,-33.3 -58.8,-76.6 0,-47.2 22.7,-74.3 59.4,-74.3 33.8,0 61,22.7 61,73.2 0,47.7 -24.4,77.7 -61.6,77.7 z m -197,-5 h 33.3 v 54.4 H 477 V 313.5 c 0,-43.3 -14.4,-59.9 -42.7,-59.9 -34.4,0 -48.3,24.4 -48.3,59.4 v 87 h 33.3 v 54.4 H 314.5 V 313.5 c 0,-43.3 -14.4,-59.9 -42.7,-59.9 -34.4,0 -48.3,24.4 -48.3,59.4 v 87 h 47.7 v 54.4 H 118.7 V 400 H 152 V 258.5 h -33.3 v -54.4 h 104.8 v 37.7 c 15,-26.6 41.1,-42.7 76,-42.7 36.1,0 69.3,17.2 81.6,53.8 13.9,-33.3 42.2,-53.8 81.6,-53.8 44.9,0 86,27.2 86,86.5 V 400 Z"
+         class="st0"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.37939644px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30948493"
+       x="108.76295"
+       y="235.44284"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         x="108.76295"
+         y="235.44284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.30948493">Mozilla Support Sprint</tspan></text>
+    <g
+       id="g872"
+       transform="matrix(0.42563505,0,0,0.42563505,0.86769351,174.73677)">
+      <text
+         id="text827-0"
+         y="174.49388"
+         x="203.11967"
+         style="font-style:normal;font-weight:normal;font-size:17.17124367px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42928112"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';fill:#ffffff;stroke-width:0.42928112"
+           y="174.49388"
+           x="203.11967"
+           id="tspan825-0"
+           sodipodi:role="line">Mozilla México</tspan></text>
+      <text
+         id="text827-0-3"
+         y="160.28548"
+         x="194.71829"
+         style="font-style:normal;font-weight:normal;font-size:8.44538021px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21113451"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';fill:#ffffff;stroke-width:0.21113451"
+           y="160.28548"
+           x="194.71829"
+           id="tspan825-0-4"
+           sodipodi:role="line">participación</tspan><tspan
+           id="tspan865"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';fill:#ffffff;stroke-width:0.21113451"
+           y="171.0722"
+           x="194.71829"
+           sodipodi:role="line">de</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.42563505,0,0,0.42563505,60.71502,143.78785)"
+       id="g872-6-0">
+      <text
+         id="text827-0-6-8"
+         y="223.25146"
+         x="246.50002"
+         style="font-style:normal;font-weight:normal;font-size:8.86625862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22165647"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.22165647"
+           y="223.25146"
+           x="246.50002"
+           sodipodi:role="line"
+           id="tspan925">2018</tspan></text>
+    </g>
+    <g
+       id="g1074"
+       transform="matrix(0.42563505,0,0,0.42563505,0.86769351,170.50616)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.39834499px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25995862"
+         x="70.923447"
+         y="274.11874"
+         id="text827-0-6"><tspan
+           id="tspan929"
+           sodipodi:role="line"
+           x="70.923447"
+           y="274.11874"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.25995862">Mozilla Firefox para Android</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.39834499px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25995862"
+         x="70.923447"
+         y="284.70206"
+         id="text827-0-6-1"><tspan
+           id="tspan929-0"
+           sodipodi:role="line"
+           x="70.923447"
+           y="284.70206"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.25995862">Del 2 al 9 de Junio del 2018</tspan></text>
+    </g>
+  </g>
+  <style
+     id="style826"
+     type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+</svg>
