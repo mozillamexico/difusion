@@ -5,4 +5,4 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 
 # Vía de comunicación con los usuarios
 
-Mediante el chat oficial IRC en (http://www.mozilla-mexico.org/chat)[http://www.mozilla-mexico.org/chat] 
+Mediante el chat oficial IRC en [http://www.mozilla-mexico.org/chat](http://www.mozilla-mexico.org/chat)
