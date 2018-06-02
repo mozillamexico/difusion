@@ -9,7 +9,17 @@ Mediante el chat oficial IRC en [http://www.mozilla-mexico.org/chat](http://www.
 
 # ¿Cómo participar?
 
-Crea una cuenta en [este enlace](https://supportusers.mozilla.community/form/user-signup)
+
+1) Ingresa a [este enlace](https://supportusers.mozilla.community/form/user-signup) para crear una cuenta para acceder a la aplicación
+
+2) Ingresa tu nombre
+![Crea_una_cuenta](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png)
+
+3) Ingresa tu correo electrónico y contraseña
+![Ingresa_correo_y_contraseña](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154744.png)
+
+4) Elige el idioma español ("spanish")
+![Elige_idioma](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154821.png)
 
 # Preguntas y respuestas frecuentes
 ## ¿Cómo instalo Mozilla Firefox en Android?
