@@ -6,7 +6,7 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 # ¿Cómo estar comunicados?
 
 1) [Via Hangout](https://hangouts.google.com/call/NM2HhIntGEY7_Zc9CScYAAEE)
-2) Vía (este grupo de telegram)[https://t.me/SuMoSprintMx]
+2) Vía [este grupo de telegram](https://t.me/SuMoSprintMx)
 
 # ¿Cómo registrarte?
 
