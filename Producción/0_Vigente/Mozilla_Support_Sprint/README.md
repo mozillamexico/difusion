@@ -10,7 +10,7 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 
 # ¿Cómo registrarte?
 
-1) Ingresa a [este enlace](https://supportusers.mozilla.community/form/user-signup) para crear una cuenta para acceder a la aplicación
+1) Ingresa a [este enlace](https://supportusers.mozilla.community/form/user-signup) para crear una cuenta y acceder a la aplicación
 
 2) Ingresa tu nombre
 <img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png" width="400" height="224" />
