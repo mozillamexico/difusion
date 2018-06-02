@@ -13,7 +13,9 @@ Aquí se tiene un listado de los distintos proyectos de Mozilla México [ver en 
 
 ## Eventos futuros
 
-* Junio: RustDay en la Ciudad de México
+* Junio:
+  RustDay en la Ciudad de México
+  Mozilla Support Spring 2018
 
 ## Eventos pasados
 
