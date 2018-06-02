@@ -3,12 +3,12 @@
 Se desarrolla del 2 al 9 de Junio del 2018 con cede en Suites Alameda
 Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 
-# Vía de comunicación con los usuarios
+# ¿Cómo estar comunicados?
 
-Mediante el chat oficial IRC en [http://www.mozilla-mexico.org/chat](http://www.mozilla-mexico.org/chat)
+1) [Via Hangout](https://hangouts.google.com/call/NM2HhIntGEY7_Zc9CScYAAEE)
+2) Vía el grupo de telegram
 
 # ¿Cómo participar?
-
 
 1) Ingresa a [este enlace](https://supportusers.mozilla.community/form/user-signup) para crear una cuenta para acceder a la aplicación
 
