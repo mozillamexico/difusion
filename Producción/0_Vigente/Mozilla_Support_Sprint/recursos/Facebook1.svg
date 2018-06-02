@@ -42,11 +42,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43144562"
-     inkscape:cx="318.2363"
-     inkscape:cy="395.53582"
+     inkscape:zoom="0.61015625"
+     inkscape:cx="339.45134"
+     inkscape:cy="109.6412"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1074"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
@@ -7359,20 +7359,16 @@ AAAAAAAAAAAAAAAAAAAAAAAACwGXQJZovDucuQAAAABJRU5ErkJggg==
          inkscape:connector-curvature="0"
          style="fill:#ffffff" />
     </g>
-    <g
-       id="g1074"
-       transform="translate(-43.307066,-15.495554)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.77662754px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19441569"
-         x="94.574982"
-         y="305.44717"
-         id="text827-0-6-1"><tspan
-           id="tspan929-0"
-           sodipodi:role="line"
-           x="94.574982"
-           y="305.44717"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.19441569">Mozilla Support Sprint 2018</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.78473377px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2696183"
+       x="42.101681"
+       y="289.8826"
+       id="text827-0-6-1-9"><tspan
+         id="tspan929-0-2"
+         sodipodi:role="line"
+         x="42.101677"
+         y="289.8826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2696183">#SupportSprint</tspan></text>
   </g>
 </svg>
