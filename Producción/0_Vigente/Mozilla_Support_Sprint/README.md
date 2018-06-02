@@ -6,14 +6,16 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 # ¿Cómo estar comunicados?
 
 1) [Via Hangout](https://hangouts.google.com/call/NM2HhIntGEY7_Zc9CScYAAEE)
-2) Vía el grupo de telegram
+2) Vía (este grupo de telegram)[https://t.me/SuMoSprintMx]
 
 # ¿Cómo registrarte?
 
 1) Ingresa a [este enlace](https://supportusers.mozilla.community/form/user-signup) para crear una cuenta para acceder a la aplicación
 
 2) Ingresa tu nombre
-![Crea_una_cuenta](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png | width=100)
+![Crea_una_cuenta](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png)
+
+<img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154725.png" width="300" height="200" />
 
 3) Ingresa tu correo electrónico y contraseña
 ![Ingresa_correo_y_contraseña](https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/20180602_154744.png)
