@@ -7,6 +7,10 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 
 Mediante el chat oficial IRC en [http://www.mozilla-mexico.org/chat](http://www.mozilla-mexico.org/chat)
 
+# ¿Cómo participar?
+
+Crea una cuenta en [este enlace](https://supportusers.mozilla.community/form/user-signup)
+
 # Preguntas y respuestas frecuentes
 ## ¿Cómo instalo Mozilla Firefox en Android?
 Desde el siguiente [LINK](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
