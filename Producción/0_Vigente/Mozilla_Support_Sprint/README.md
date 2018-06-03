@@ -37,6 +37,7 @@ Foro de asistencia](https://docs.google.com/document/d/e/2PACX-1vRy5qUrdeQ_yXxpE
 * Indicar alguna respuesta o sugerir hacer una pregunta en el [Foro de Ayuda de Firefox para Android](https://support.mozilla.org/es/products/mobile)
 * Invitar a dar una retroalimentación en [Firefox Feedback](https://www.mozilla.org/en-US/firefox/feedback)
 * Invitar a ponerse en contacto con la comunidad de Mozilla México via [CHAT](http://mozilla-mexico.org/chat)
+* Revisar el [diccionario de respuestas](https://github.com/mozillamexico/difusion/blob/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/diccionario_de_respuestas.md)
 
 # ¿Quieres publicar tu participación?
 
