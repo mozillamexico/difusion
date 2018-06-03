@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.61015625"
-     inkscape:cx="339.45134"
-     inkscape:cy="109.6412"
+     inkscape:zoom="0.43144562"
+     inkscape:cx="392.97671"
+     inkscape:cy="489.85227"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,10 +83,10 @@
        preserveAspectRatio="none"
        id="image823"
        x="-214.92616"
-       y="18.244829" />
+       y="15.069828" />
     <g
        id="g910"
-       transform="matrix(1.3496217,0,0,1.3496217,-8.8808312,-25.474101)">
+       transform="matrix(1.3496217,0,0,1.3496217,-8.8808312,-28.649103)">
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,3.4324976,27.653462)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -166,7 +166,7 @@
        xml:space="preserve"
        id="flowRoot946"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.28797397,0,0,0.28797397,-0.62003059,76.014695)"><flowRegion
+       transform="matrix(0.28797397,0,0,0.28797397,-0.62003059,72.839693)"><flowRegion
          id="flowRegion948"><rect
            id="rect950"
            width="720.69464"
@@ -178,7 +178,9 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold'"
    id="flowSpan1027">cientos de voluntarios</flowSpan> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="flowPara1092">al rededor del mundo estamos respondiendo dudas de </flowPara><flowPara
+         id="flowPara1092">al rededor del mundo estamos </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="flowPara1130">ayudando a usuarios de</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab';text-align:center;text-anchor:middle;fill:#ffffff"
          id="flowPara1029">Firefox para Android</flowPara></flowRoot>    <image
        y="47.528248"
@@ -7342,7 +7344,7 @@ AAAAAAAAAAAAAAAAAAAAAAAACwGXQJZovDucuQAAAABJRU5ErkJggg==
        height="180.6575"
        width="423.43918"
        clip-path="url(#clipPath1023)"
-       transform="matrix(0.44125465,0,0,0.44125465,77.732588,108.2883)" />
+       transform="matrix(0.44125465,0,0,0.44125465,77.732588,105.11328)" />
     <g
        id="g832"
        transform="matrix(0.02032096,0,0,0.02032096,193.96172,281.4407)">

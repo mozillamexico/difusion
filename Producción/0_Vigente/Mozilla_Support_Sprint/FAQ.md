@@ -18,5 +18,9 @@
 
 En Mozilla nos esforzamos por darte la mejor experiencia, si has tenido algún problema con la aplicación por favor contáctanos en http://www.mozilla-mexico.org/chat o visita el foro http://mzl.la/1PbRGTP donde estaremos felices de poder ayudarte. Si todo va bien nos ayudaría mucho tu respuesta con una revisión actualizada :)
 
+## En algunas ocaciones se cierra la app ala ora de navegar
+
+¡Lamentamos que tengas problemas con Firefox! Te invitamos a hacer una pregunta al respecto en https://support.mozilla.org/es/questions/new/mobile/fix-problems o si lo prefieres contactar directamente con la comunidad de Mozilla México en http://mozilla-mexico.org/chat donde estaremos felices de poder ayudarte.
+
 
 https://www.mozilla.org/en-US/firefox/feedback
