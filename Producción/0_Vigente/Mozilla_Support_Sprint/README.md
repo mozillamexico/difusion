@@ -37,3 +37,9 @@ Foro de asistencia](https://docs.google.com/document/d/e/2PACX-1vRy5qUrdeQ_yXxpE
 * Indicar alguna respuesta o sugerir hacer una pregunta en el [Foro de Ayuda de Firefox para Android](https://support.mozilla.org/es/products/mobile)
 * Invitar a dar una retroalimentación en [Firefox Feedback](https://www.mozilla.org/en-US/firefox/feedback)
 * Invitar a ponerse en contacto con la comunidad de Mozilla México via [CHAT](http://mozilla-mexico.org/chat)
+
+# ¿Quieres publicar tu participación?
+
+Puedes usar esta imagen si lo deseas para compartirla en tus redes sociales
+
+<img src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/Facebook1.png" alt="" data-canonical-src="https://raw.githubusercontent.com/mozillamexico/difusion/master/Producci%C3%B3n/0_Vigente/Mozilla_Support_Sprint/recursos/Facebook1.png" width="500" height="500" />
