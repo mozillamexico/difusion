@@ -30,8 +30,10 @@ Revillagigedo 18, Colonia Centro, Centro, 06000 Ciudad de México, CDMX
 
 # ¿Qué y cómo responder?
 
-* Puedes revisar la [Guía para Responder preguntas en el
+Algunas ideas al respecto son:
+
+* Revisar la [Guía para Responder preguntas en el
 Foro de asistencia](https://docs.google.com/document/d/e/2PACX-1vRy5qUrdeQ_yXxpEQr-ngBTUfrJF1BKwo5gLVA1FDlV3GTjN-25uPDEIyFxpA3DW9Hsg5-wTRyS_d7O/pub#h.gjdgxs)
-* Puedes indicar alguna respuesta de [Ayuda de Firefox para Android](https://support.mozilla.org/es/products/mobile)
-* Puedes invitar a dar una retroalimentación [aquí](https://www.mozilla.org/en-US/firefox/feedback)
-* Puedes invitar a ponerse en contacto con la comunidad de Mozilla México via [CHAT](http://mozilla-mexico.org/chat)
+* Indicar alguna respuesta de [Ayuda de Firefox para Android](https://support.mozilla.org/es/products/mobile) o sugerir que haga una pregunta ahí mismo (si se trata de algo muy complejo)
+* Invitar a dar una retroalimentación [aquí](https://www.mozilla.org/en-US/firefox/feedback)
+* Invitar a ponerse en contacto con la comunidad de Mozilla México via [CHAT](http://mozilla-mexico.org/chat)
