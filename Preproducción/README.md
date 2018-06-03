@@ -7,7 +7,8 @@ En esta carpeta se llevan tareas de análisis comunicativos tales como análisis
 
 ### Logotipo / marca (Mozilla a secas)
 
-* [Logotipo](https://mozilla.design/mlogo/)
+* [Logotipo de Mozilla](https://mozilla.design/mlogo/)
+* [Logotipo de Firefox](https://design.firefox.com/photon/visuals/product-identity-assets.html)
 * [Directrices de la marca](https://mozilla.design/mlogo/)
 * [Preguntas frecuentes respecto a la marca](https://mozilla.design/faq/)
 * [Paleta de colores](https://mozilla.design/visualelements/)
