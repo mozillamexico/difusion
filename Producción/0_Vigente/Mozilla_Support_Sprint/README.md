@@ -34,6 +34,6 @@ Algunas ideas al respecto son:
 
 * Revisar la [Guía para Responder preguntas en el
 Foro de asistencia](https://docs.google.com/document/d/e/2PACX-1vRy5qUrdeQ_yXxpEQr-ngBTUfrJF1BKwo5gLVA1FDlV3GTjN-25uPDEIyFxpA3DW9Hsg5-wTRyS_d7O/pub#h.gjdgxs)
-* Indicar alguna respuesta de [Ayuda de Firefox para Android](https://support.mozilla.org/es/products/mobile) o sugerir que haga una pregunta ahí mismo (si se trata de algo muy complejo)
-* Invitar a dar una retroalimentación [aquí](https://www.mozilla.org/en-US/firefox/feedback)
+* Indicar alguna respuesta o sugerir hacer una pregunta en el [Foro de Ayuda de Firefox para Android](https://support.mozilla.org/es/products/mobile)
+* Invitar a dar una retroalimentación en [Firefox Feedback](https://www.mozilla.org/en-US/firefox/feedback)
 * Invitar a ponerse en contacto con la comunidad de Mozilla México via [CHAT](http://mozilla-mexico.org/chat)
