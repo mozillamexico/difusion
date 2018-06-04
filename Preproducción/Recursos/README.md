@@ -1,6 +1,6 @@
-# Recursos en este repositorio
+# Recursos (dentro de esta carpeta)
 
-Todos los recursos que contiene esta carpeta deben ser los vigentes se deben eliminar los que ya no los sean.
+Esta carpeta contiene sólo recursos vigentes.
 
 * [LogoMozillaMéxico - Logotipo de Mozilla México](https://github.com/mozillamexico/difusion/tree/master/Preproducci%C3%B3n/Recursos/LogoMozillaM%C3%A9xico)
 * [MozillaFirefox -Branding de Firefox](https://github.com/mozillamexico/difusion/tree/master/Preproducci%C3%B3n/Recursos/Mozilla-logo-BW-RGB)
