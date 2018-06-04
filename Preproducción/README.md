@@ -3,7 +3,7 @@
 En esta carpeta se llevan tareas de análisis comunicativos tales como análisis de audiencias, Análisis de mensajes, planeación, etc.
 
 
-## Recursos
+## Recursos en línea
 
 ### Logotipo / marca (Mozilla a secas)
 
