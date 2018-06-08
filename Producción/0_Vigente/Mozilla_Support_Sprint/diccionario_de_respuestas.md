@@ -54,6 +54,29 @@ Te recomendamos verificar que tengas la última versión de Firefox y Android, I
 Te recomendamos verificar que tengas la última versión de Firefox y Android, Intentar desinstalar complementos en el menú de Firefox> Complementos o  cerrar otras aplicaciones para acelerar Firefox y borrar los datos en caché en Configuración> Almacenamiento. También puedes contáctarnos en http://mozilla-mexico.org/chat estaremos felices de ayudar.
 
 
+## Se cierra y da error en Sync, al ingresar en la cuenta para sincronizar los marcadores. Por favor arreglen eso.
+Lamentamos que estés teniendo problemas.  Quizás puedas intentar estas soluciones: https://support.mozilla.org/es/kb/firefox-sync-no-funciona  Por favor, coméntanos si esto es útil al dejando una revisión actualizada.
+
+## Las imagenes son muy pequeñas!! No SIRVE
+Lamentamos que tengas problemas, Te sugerimos verificar que estés utilizando la última versión de Firefox y de Android, así mismo revisar que no esté activada la casilla "Solicitar sitio de escritorio" en el menú de opciones. También puedes revisar https://support.mozilla.org/es/products/mobile Coméntanos si fue útil en una revisión actualizada.
+
+## a cada rato me da crash la pvta app :v
+Lamentamos que tengas problemas, Te sugerimos verificar que estés utilizando la última versión de Firefox y de Android, puedes intentar desinstalar complementos en el menú de Firefox> Complementos, puedes intentar cerrar otras aplicaciones para acelerar Firefox y borrar los datos en caché en Configuración> Almacenamiento. http://mzl.la/1mPeNxq
+
+## En galaxy j7 prime se detiene a cada rato al tratar de cargar algunas paginas un asco.......
+Lamentamos que tengas problemas, Te sugerimos verificar que estés utilizando la última versión de Firefox y de Android, puedes intentar desinstalar complementos en el menú de Firefox> Complementos o intentar cerrar otras aplicaciones y borrar los datos en caché en Configuración> Almacenamiento. http://mzl.la/1mPeNxq
+
+## Abro y se cierra supuestamente por un error...arréglenlo por favor
+Lamentamos mucho que tengas problemas. Tal vez podamos ayudar a resolver tu problema en el Foro de soporte https://support.mozilla.org/es/products/mobile donde Muchos Mozillians estamos para proporcionarte ayuda personalizada. También puedes intentar borrar la caché de Android en Configuración> Aplicaciones> Firefox> Almacenamiento> Eliminar Caché.
+
+## Aburrido
+Lamentamos que tengas esa percepción por lo que nos encantaría que nos compartieras qué haría a Firefox para Android más divertido en https://support.mozilla.org/es/questions/new/desktop/other También te sugerimos visitar https://addons.mozilla.org/es/android/ donde hay miles de complementos y temas listos para personalizar tu experiencia. LUX
+
+## Son putow
+¡Lamentamos que tengas problemas con Firefox! Tal vez podamos ayudar a resolver tu problema en el Foro de soporte - muchas personas están allí para proporcionar ayuda personalizada. https://mzl.la/2sGCzQN
+
+## No me gusta para nada esta aplicacion?
+Lamentamos que esta situación. Si tienes problemas con la aplicación, te sugerimos visitar https://support.mozilla.org/es/products/mobile , también te sugerimos visitar https://addons.mozilla.org/es/android/ donde hay miles de complementos y temas listos para personalizar tu experiencia. Por favor dinos si esto te fue útil actualizando tu revisión.
 
 
-Lamentamos que tengas problemas con Firefox y nos gustaría ayudarte, por favor date una vuelta por http://www.mozilla-mexico.org/chat donde muchos mozillians brindamos ayuda personalizada. También puedes ayudarnos a mejorar en el foro https://support.mozilla.org/es/products/mobile o el Feedback https://www.mozilla.org/en-US/firefox/feedback
+Lamentamos que tengas problemas con Firefox y nos gustaría ayudarte, por favor date una vuelta por https://www.mozilla-mexico.org/chat donde muchos mozillians brindamos ayuda personalizada. También puedes ayudarnos a mejorar en el foro https://support.mozilla.org/es/products/mobile o el Feedback https://www.mozilla.org/en-US/firefox/feedback
