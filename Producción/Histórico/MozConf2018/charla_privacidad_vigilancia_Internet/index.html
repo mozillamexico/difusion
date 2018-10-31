@@ -1,0 +1,731 @@
+<!DOCTYPE HTML>
+<!-- <html lang="en-US"> -->
+<html lang="es-MX" class="fade">
+<!--
+  ^ a class of "fade" makes slides fade smoothly into one another
+ -->
+<!-- <html lang="en-US" class="nonumbers"> -->
+<!--
+  If you want no numbers on the slides add a "nonumbers" class
+  to the HTML element.
+  Adding a class of "fade" will make slides fade into another.
+-->
+<head>
+  <meta charset="UTF-8">
+  <title>Privacidad, seguridad y vigilancia</title>
+<!--
+  If you upload your slides to the web, ensure that you have
+  a good title - this shows up in search results and social
+  media links
+ -->
+  <meta name="viewport" content="width=device-width, user-scalable=yes">
+  <link rel="stylesheet" href="themes/mozilla/styles/style.css">
+</head>
+<body class="list">
+  <header class="caption">
+    <h1>Seguridad, privacidad y vigilancia en Internet</h1>
+    <p class="footer">
+      Lucio Chávez, Edgar Osorio y Odin Mojica.
+      <a href="http://twitter.com/odinm">@odinm</a> y
+      <a href="mailto:odinmojica@mozilla-mexico.org">odinmojica@mozilla-mexico.org</a>
+    </p>
+  </header>
+  <aside class="talkdescription">
+    <p><button onclick="goFullScreen()">Pantalla completa</button></p>
+    <p class="abstract">
+      <strong>Resumen:</strong>
+Desde hace mucho tiempo el tema de la vigilancia y la violación a la privacidad siempre ha estado presente dentro de la sociedad en muchos aspectos, desde la vigilancia del estado hacia la población y a sus funcionarios, así dentro de la industria privada con al finalidad de saber los movimientos de su competidores y en ocasiones entre los mismos ciudadanos con algún fin en particular, existen muchos (no todos son públicos) hechos históricos que nos permiten saber de ello. Pero los tiempos y las tecnologías avanzan constantemente y la misma tecnología permiten que llegue a ser más sencillo el robo de información, así como la violación a la privacidad y la vigilancia y más ahora por el uso desmedido y masivo de Internet, y muchas veces la falta de cultura de la seguridad de la información, la falta de interés, la no valoración de la información que emitimos, entre otros provoca que nosotros seamos los que permitimos estas acciones.
+
+Dentro de la charla hablaremos del porque es importante saber proteger nuestros datos, como empresas y gobiernos han venido haciendo estas actividades, como se encuentra México actualmente, y de como podemos nosotros empezar a proteger nuestras información con la ayuda de Mozilla.
+
+Mozilla en los últimos años ha hecho mucho hincapié en estos temas, desde la protección de un Internet libre abierto y colaborativo oponiéndose a propuestas de ley que violenten la naturaleza de Internet y buscan vigilar las actividades que se realizan en Internet. Busca ayudar a la sociedad creando herramientas robustas en temas de seguridad, enriqueciendo al navegador con plugins que ayuden a ello, buscando enseñar por medio de información como la ciudadanía se puede proteger y no dejar el camino fácil a quien pretenda realizar estas actividades.</	p>
+  </aside>
+
+<!--
+    Simply copy the whole block for each slide you want.
+  Special slides get extra classes. Each slide needs an ID
+  to allow for bookmarking and target jumping.
+-->
+
+  <div id="cover" class="slide"><div>
+    <section>
+      <header>
+        <h1>Seguridad, privacidad y vigilancia en Internet</h1>
+      </header>
+      <img src="pictures/ojo.png"
+           class="middle" height="550"
+           alt="Vigilancia en Internet">
+      <small class="credits">
+      Lucio Chávez y Edgar Osorio, Tec. de Puebla, Puebla, México 25/10/2018
+      </small>
+
+      </section>
+  </div></div>
+
+<!-- end slide block -->
+
+
+  <div id="callout" class="slide"><div>
+    <section>
+      <header>
+        <h2>Nuestra agenda</h2>
+      </header>
+      <img src="pictures/vigilancia.png"
+           class="right" height="315">
+      <ul>
+      <li>¿Qué es la privacidad?</li>
+			<li>El valor de los datos</li>
+      <li>Rastreo gubernamental y persecución política.</li>
+      <li>Recolección por parte de compañías</li>
+			<li>¿Cómo puedo proteger mi información?</li>
+      </ul>
+   </section>
+  </div></div>
+
+
+  <div id="privacidad" class="slide shout"><div>
+    <section>
+      <header>
+      <h1>¿Qué es la privacidad?</h1>
+      </header>
+      <img src="pictures/privacidad.jpg"
+	       class="middle shadow" height="450"
+	       alt="Vigilancia en Internet">
+
+      <footer class="notes">
+      </footer>
+    </section>
+  </div></div>
+
+
+<div id="definicion_privacidad" class="slide"><div>
+    <section>
+      <header>
+        <h2>Privacidad</h2>
+      </header>
+      <p>f. Ámbito de la vida privada que se tiene derecho a proteger de cualquier intromisión.[1]</p>
+      <p>Es un derecho inherente a cada ser humano, que tiene independencia frente a otros factores, no puede transferirse ni se puede renunciar a él.
+Como el resto de los derechos humanos, el derecho a la privacidad busca garantizar la dignidad del individuo.</p>
+		<small class="credits">
+    [1] http://dle.rae.es/?id=UD4g0KW
+      </small>
+      <footer class="notes">
+      </footer>
+    </section>
+  </div></div>
+
+<div id="importancia" class="slide"><div>
+    <section>
+      <header>
+        <strong>¿Por qué es importante?</strong>
+      </header>
+      <ul class="inner">
+        <li class="active">La privacidad es un fenómeno, estado o condición de la persona, que le permite establecer un contacto consigo mismo.</li>
+        <li>Es individualidad.</li>
+        <li>Brinda la posibilidad de tener control del espacio.</li>
+        <li>Se modifica en función del cada persona y del ambiente específico en que se encuentre.</li>
+      </ul>
+    </section>
+ </div></div>
+
+<div id="importancia2" class="slide"><div>
+    <section>
+      <header>
+      </header>
+      <ul class="inner">
+        <li class="active">Es refugio, brinda cobijo y protección contra condiciones dañinas.</li>
+        <li>Permite acceder a una breve soledad, a un espacio de completa intimidad.</li>
+         		  <img src="pictures/mi_privacidad.png" class="right" width="250" height="250" >
+	     <li><strong>NO</strong> puede y <strong>NI</strong> debe de ser pública.</li>
+     </ul>
+    </section>
+ </div></div>
+
+ <div id="privacidad3" class="slide cover h"><div>
+   <section>
+     <header>
+     <img src="pictures/privacidad2.jpg"
+        class="middle shadow" height="800"
+        alt="Vigilancia en Internet">
+     </header>
+   </section>
+ </div></div>
+
+ <div id="informacion_sensible" class="slide"><div>
+     <section>
+       <header>
+         <h2>Información sensible</h2>
+       </header>
+       <p>Cualquier dato cuya difusión pueda resultar perjudicial</p>
+       <ul>
+       <li>Información personalmente identificable</li>
+ 			 <li>Registros médicos</li>
+       <li>Información bancaria</li>
+       <li>Secretos empresariales</li>
+       </ul>
+     </section>
+   </div></div>
+
+   <div id="metadatos" class="slide"><div>
+       <section>
+         <header>
+           <h2>Metadatos</h2>
+         </header>
+         <p>"Datos sobre datos". Pueden ayudar a determinar:</p>
+         <ul>
+         <li>Donde has estado</li>
+   			 <li>Que equipo(s) has usado</li>
+         <li>En que tiempo</li>
+         <li>Con quién</li>
+         <li>(En los emails) Para qué</li>
+         </ul>
+       </section>
+     </div></div>
+
+   <div id="objeto_vigilancia" class="slide shout"><div>
+     <section>
+       <header>
+         <h2>VIGILANCIA</h2>
+       </header>
+     </section>
+   </div></div>
+
+   <div id="software_vigilancia" class="slide"><div>
+     <section>
+       <header>
+         <h2>Programas de espionaje</h2>
+         </header>
+        <ul>
+          <li>Revelaciones Vault 7</li>
+          <li>PRISM</li>
+          <li>MUSCULAR</li>
+          <li>XKeyScore</li>
+          <li>TEMPORA</li>
+          <li>Karma Police</li>
+          <li>Pegasus</li>
+       </ul>
+     </section>
+   </div></div>
+
+   <div id="vault7" class="slide"><div>
+     <section>
+       <header><h2>Vault 7</h2>
+         </header>
+          <ul  class="inner">
+         <li class="active">Una serie de vulnerabilidades explotadas por la CIA reveladas en 2017 por Wikileaks</li>
+         <li>Afectaron:<br>
+           Dispositivos embedidos, antivirus, HTTPS, autos, smart TVs, Windows, productos de Apple y Android.</li>
+         <li>La mayoría de las vulnerabilidades ya fueron parchadas, pero estuvieron activas por varios años.</li>
+         <li>Podían escuchar los micrófonos de los dispositivos inteligentes, usar las cámaras, infectar redes, autos, etc.</li>
+       </ul>
+       <small class="credits">
+         https://wikileaks.org/ciav7p1/
+         </small>
+         <footer class="notes">
+         </footer>
+     </section>
+   </div></div>
+
+   <div id="prism" class="slide"><div>
+     <section>
+       <header><h2>PRISM</h2>
+         </header>
+          <ul  class="inner">
+         <li class="active">Un programa de recolección masiva de datos de la NSA.</li>
+         <li>Obtiene información directamente de:<br>
+         Apple, Google, Microsoft, Facebook y Yahoo.</li>
+         <li>Además de monitorear todo el flujo de conexiones de EE. UU.</li>
+         <li>Un empleado de la NSA puede obtener la información que deseen e incluso marcar objetivos con el software XKeyScore</li>
+         <li>Uno de sus principales objetivos es México</li>
+         <li>Es probable que haya servido de inspiración para Pegasus</li>
+       </ul>
+       <small class="credits">
+https://en.wikipedia.org/wiki/PRISM_(surveillance_program)
+         </small>
+         <footer class="notes">
+         </footer>
+     </section>
+   </div></div>
+
+   <div id="otros_programas" class="slide"><div>
+     <section>
+         <header><h2>Otros programas extranjeros</h2>
+         </header>
+          <ul  class="inner">
+         <li class="active">MUSCULAR, de EE. UU. y Reino Unido, con acceso directo sin garantías a las nubes privadas de Google y Yahoo, y el doble de procesamiento que PRISM.</li>
+         <li>TEMPORA, software del Reino Unido, con 46 super-cables para procesar todo el tráfico de la isla.</li>
+         <li>Karma Police, del Reino Unido, registra todas las direcciones IP de las personas que accesan a sitios de la isla.</li>
+       </ul>
+     </section>
+   </div></div>
+
+   <div id="pegasus" class="slide"><div>
+     <section>
+       <header><h2>Pegasus</h2>
+         </header>
+          <ul  class="inner">
+         <li class="active">Software Israeli de NSO Group.</li>
+         <li>Se supo que el Estado Mexicano es el cliente más importante</li>
+         <li>PGR, CISEN y SEDENA gastaron 80 millones en la compra y 500 millones por actualizar el software.</li>
+         <li>Pegasus interviene celulares y monitorea cada detalles de la vida de los usuarios: llamadas, mensajes de texto, correos, contactos,etc.</li>
+         <li>Remotamente permite controlar la cámara y y el micrófono.</li>
+         <li>Citizen Lab de la Universidad de Toronto en conjunto de OSC (ONG) se han dado a la tarea de denunciar estos hechos.</li>
+       </ul>
+     </section>
+   </div></div>
+
+   <div id="mexico1" class="slide"><div>
+     <section>
+       <header>
+         </header>
+
+         <p>México vive desde hace varios años una crisis en temas de derechos humanos.</p>
+         <p>Esa crisis se extendió también al entorno digital y al ejercicio de nuestros derechos en internet.</p>
+         <p>La vigilacia a llegado a cortar la libertad de expresión.</p>
+         <p>La vigilancia no tiene que ver con la seguridad, tiene que ver más con el poder.</p>
+       </ul>
+     </section>
+   </div></div>
+
+   <div id="mexico2" class="slide"><div>
+     <section>
+       <header>
+         </header>
+         <p>La información es poder y cada uno de nosotros emitimos basta información a diario</p>
+         <p>La vigilancia y almacenamiento de datos personales pueden convertirse en públicos.</p>
+         <p>No podemos renunciar a nuestra privacidad a cambio de la seguridad.</p>
+         <p>No dudemos que la vigilancia y almacenmiento de datos ya haya cobrado victimas, incluso los más vulnerables, los periodistas.</p>
+       </ul>
+     </section>
+   </div></div>
+
+   <div id="mexicopics1" class="slide cover h"><div>
+      <section>
+        <img src="pictures/01.png"
+             class="middle">
+     </section>
+    </div></div>
+
+<div id="mexicopics2" class="slide cover h"><div>
+      <section>
+        <img src="pictures/02.png"
+             class="middle">
+     </section>
+    </div></div>
+<div id="mexicopics3" class="slide cover h"><div>
+      <section>
+        <img src="pictures/03.png"
+             class="middle">
+     </section>
+    </div></div>
+<div id="mexicopics4" class="slide cover h"><div>
+      <section>
+        <img src="pictures/04.png"
+             class="middle">
+     </section>
+    </div></div>
+<div id="mexicopics5" class="slide cover h"><div>
+      <section>
+        <img src="pictures/05.png"
+             class="middle">
+     </section>
+    </div></div>
+
+  <div id="mexico3" class="slide"><div>
+     <section>
+       <header><h2>Casos recientes</h2>
+       </header>
+        <ul  class="inner">
+        <li class="active">Periodistas: Carmen Aristegui (caso Casa Blanca) y Carlos Loret de Mola.</li>
+        <li>El director del Centro de Derechos Humanos Miguel Agustín Pro Juárez, Centro ProDH (caso Ayotzinapa, Tlatlaya y Atenco).</li>
+ 		 <li>Simón Barquera, Instituto Nacional de Salud Pública de México  y Luis Manuel Encarnación Fundación Midete (a favor de impuestos a bebidas azucaradas)</li>
+        <li>Mario Patrón, director del Instituto Mexicano para la Competitividad, IMCO, (caso Ayotzinapa)</li>
+        </ul>
+    </section>
+   </div></div>
+
+  <div id="mexico4" class="slide"><div>
+     <section>
+       <header><h2>Casos recientes</h2>
+       </header>
+        <ul  class="inner">
+        <li class="active">Juan Pardinas y Salvador Camarena de Mexicanos Contra la Corrupción y la Impunidad (MCCI)</li>
+        </ul>
+        <p>Entre otras instituciones que investigan actos de corrupción del gobierno y temas de  abusos a derechos humanos
+         por parte del Estado como las ejecuciones extrajudiciales en Tanhuato, Michoacán, la desaparición de los 43 de Ayotzinapa,
+         la discusión de la ley 3 de 3, la red de empresas fantasma del gobierno de Javier Duarte.</p>
+        </ul>
+    </section>
+   </div></div>
+
+    <div id="nada_gratis" class="slide cover h"><div>
+      <section>
+        <header>
+        <img src="pictures/facebook_gratis.png"
+           class="middle"
+           alt="Vigilancia en Internet">
+        </header>
+      </section>
+    </div></div>
+
+    <div id="nada_gratis2" class="slide shout"><div>
+        <section>
+          <header>
+            <h1>¡Nada es gratis!</h1>
+          </header>
+          <h2>Todo tiene un costo...</h2>
+        </section>
+    </div></div>
+
+  <div id="recoleccion" class="slide"><div>
+    <section>
+      <header>
+        <h3>Recolección de datos</h3>
+        </header>
+ 		<p>Con cada servicio que usamos generamos datos, muchas veces información sensible.<br>
+    Los principales agentes poseedores de nuestros datos son:</p>
+    <ul>
+      <li>Facebook</li>
+      <li>Google</li>
+      <li>Microsoft</li>
+      <li>Empresas de Dispositivos Conectados</li>
+    </section>
+  </div></div>
+
+  <div id="facebook" class="slide"><div>
+    <section>
+      <header><h2>Facebook</h2>
+      </header>
+      <ul  class="inner">
+        <li class="active">Incluso aunque los mensajes enviados por Whatsapp estén encriptados de punto a punto, Facebook puede saber con quién hablas, cuando y por cuanto tiempo.</li>
+        <li>Facebook te sigue por el Internet con sus botones de like</li>
+        <li>Te puede escuchar por el micrófono y dirigir la publicidad por los sonidos a tu alrededor[1]</li>
+      </ul>
+      <small class="credits">
+        https://www.nbc4i.com/news/u-s-world/spying-secrets-is-facebook-eavesdropping-on-your-phone-conversations/1114522321
+      </small>
+     </section>
+  </div></div>
+
+  <div id="facebook2" class="slide"><div>
+     <section>
+       <header><h2>Free Basics de Facebook</h2>
+         </header>
+          <ul  class="inner">
+         <li class="active">Arrancó en diciembre del 2015 en conjunto con la operadora móvil virtual Virgin Mobile.</li>
+         <li>Ofrece acceso restringido a un conjunto de 38 aplicaciones previamente seleccionadas por Facebook, sin cargo de datos para el usuario.</li>
+         <li>Esto es genera una discriminación de contenidos y una violación a los principios de neutralidad en la red #NetNeutrality</li>
+         <li>Modelo de negocios que se sirve de los datos personales y de la pasividad de los gobiernos.</li>
+       </ul>
+       <small class="credits">
+         https://www.derechosdigitales.org/9615/que-paso-el-2015-en-mexico-con-los-derechos-digitales/
+       </small>
+     </section>
+   </div></div>
+
+   <div id="datos_curiososFB" class="slide"><div>
+    <section>
+      <header>
+        <h3>Datos curiosos</h3>
+        </header>
+     <p>Facebook solicita a bancos de EE.UU. que le compartan datos de clientes[1]</p>
+     <p>Fuga y mal uso de información por "socios" como Cambridge Analytica entre otros.</p>
+
+
+     <small class="credits">
+   [1] https://r3d.mx/2018/08/06/facebook-solicita-a-bancos-de-ee-uu-que-le-compartan-datos-de-clientes/
+      </small>
+    </section>
+  </div></div>
+
+  <div id="google" class="slide cover h"><div>
+    <section>
+      <header>
+      </header>
+      <img src="pictures/google.png"
+           class="middle">
+     </section>
+  </div></div>
+
+  <div id="android" class="slide"><div>
+    <section>
+      <header>
+        <h3>Por parte de Android</h3>
+        </header>
+		<ul class="inner">
+        <li class="active">Por donde los usuarios se desplazan y lo que escuchan.</li>
+        <li>Se recolectan de manera pasiva, es decir, no nos damos cuenta.</li>
+        <li>Envía información sobre la ubicación 340 veces en 24 horas y unas 14 veces cada hora.</li><br>
+        <li>Por lo tanto es capaz de identificar intereses de los usuarios con gran precisión.</li>
+    </section>
+  </div></div>
+
+  <div id="android2" class="slide"><div>
+    <section>
+      <header>
+        <h3>Datos del estudio</h3>
+        </header>
+ 		    <p><img src="pictures/recoleccion_datos.png" class="center"  width="750" height="350"></p>
+      <small class="credits">
+		https://digitalcontentnext.org/wp-content/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf
+      </small>
+    </section>
+  </div></div>
+
+ <div id="google1" class="slide"><div>
+    <section>
+      <header>
+        <h3>¿No crees?</h3>
+        </header>
+ 		<p>Entra a tus configuraciones de tu cuenta de gmail y verás.</p>
+ 		<p><img src="pictures/1.png" class="lefth"  width="250" height="250">
+ 		<img src="pictures/2.png" class="center"  width="250" height="250">
+ 		<img src="pictures/3.png" class="right"  width="250" height="250"></p>
+    </section>
+  </div></div>
+
+   <div id="google2" class="slide"><div>
+    <section>
+      <header>
+        </header>
+ 		<p><img src="pictures/4.png" class="lefth"  width="250" height="250">
+ 		<img src="pictures/5.png" class="center"  width="250" height="250">
+ 		<img src="pictures/6.png" class="right"  width="250" height="250"></p>
+    </section>
+  </div></div>
+
+  <div id="datos_curiososG" class="slide"><div>
+   <section>
+     <header>
+       <h3>Otros datos curiosos</h3>
+       </header>
+    <ul  class="inner">
+       <li class="active">Google sabe qué compraste con tu tarjeta Mastercard en una tienda física.[1]</li>
+       <li>Google puede cambiar los ajustes de los teléfonos Android a distancia y sin advertencia[2]</li>
+     <li>Google y la utilización del perfil de usuarios para fines publicitarios.[3]</li>
+     <li>Al cerrar su servicio Google+, expuso la información de hasta 500,000 usuarios[4]</li>
+
+     <small class="credits">
+   [1] https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales<br>
+   [2] https://www.bbc.com/news/technology-45546276
+   [3] https://www.derechosdigitales.org/6300/google-y-la-utilizacion-del-perfil-de-usuarios-para-fines-publicitarios-como-afecta-a-la-privacidad-de-los-usuarios/<br>
+   [4] https://www.bbc.com/news/technology-45792349
+     </small>
+   </section>
+ </div></div>
+
+ <div id="windows" class="slide cover h"><div>
+   <section>
+     <header>
+     </header>
+     <img src="pictures/windows.jpg"
+          class="middle">
+    </section>
+ </div></div>
+
+ <div id="microsoft" class="slide"><div>
+   <section>
+     <header><h2>Microsoft</h2>
+     </header>
+     <ul  class="inner">
+       <li class="active">Microsoft recolecta de Windows 10 información como:<br>
+       la ubicación, la entrada de texto y voz, los sitios que visitas, y datos telemétricos de tu uso general de la computadora, incluyendo que programas y por cuanto tiempo.</li>
+       <li>Se pueden desactivar muchas opciones de privacidad, excepto la telemetría</li>
+       <li>Muestra publicidad agresiva cuando no usas su navegador</li>
+     </ul>
+     <small class="credits">
+       https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive
+     </small>
+    </section>
+ </div></div>
+
+ <div id="smart_devices" class="slide"><div>
+   <section>
+     <header><h2>Hogares Conectados</h2>
+     </header>
+     <ul  class="inner">
+       <li class="active">La mayoría de las conexiones de estos dispositivos no son seguras</li>
+       <li>Albergan mucha información y usualmente tienen poca seguridad</li>
+       <li>Comparten información con terceros como ScoreCardResearch</li>
+       <li>A veces transmiten demasiada información a sus empresas[1]</li>
+     </ul>
+     <small class="credits">
+       https://gizmodo.com/the-house-that-spied-on-me-1822429852<br>
+       [1]https://splinternews.com/this-sex-toy-tells-the-manufacturer-every-time-you-use-1793861000
+     </small>
+    </section>
+ </div></div>
+
+   <div id="cookies" class="slide shout"><div>
+    <section>
+      <header>
+      </header>
+      <img src="pictures/cookies.jpg"
+	       class="middle shadow">
+   </section>
+  </div></div>
+
+  <div id="terceros" class="slide"><div>
+    <section>
+      <header><h2>Recolección de datos habitual por terceros</h2>
+      </header>
+      <ul  class="inner">
+        <li class="active">Según Ghostery, los anuncios y contenidos de terceros componen el 55.4% del tiempo de carga de las páginas web.</li>
+        <li>Nadie me asegura que la información esté siendo recolectada de forma segura por el terceros.</li>
+        <li>Cambridge Analytica<br>
+        La información de millones de usuarios fue mal usada para política en las elecciones de 2016 en EE. UU., las de 2018 en México y el referendum para el Brexit.</li>
+      </ul>
+      <small class="credits">
+      </small>
+     </section>
+  </div></div>
+
+  <div id="proteccion" class="slide shout"><div>
+     <section>
+       <header>
+       <h2>¿CÓMO PROTEJO MIS DATOS?</h2>
+       </header>
+     </section>
+   </div></div>
+
+  <div id="leyes" class="slide"><div>
+     <section>
+       <header>
+       <h1>Leyes</h1>
+       </header>
+       <ul>
+       <li>Solicitud de derechos ARCO:<br>
+         Acceso, rectificación, cancelación u oposición de tus datos personales.</li>
+       <li>Reglamento general de protección de datos (GDPR)[1]:<br>
+         Te da completo control sobre tus datos, promueve la plena información y los servicios con la privacidad por principio<br>
+         (Alphabet y Facebook tuvieron que pagar grandes multas por no cumplirla los primeros días de su vigencia)[2]</li>
+     </ul>
+     <small class="credits">
+       [1] https://blog.mozilla.org/internetcitizen/2018/05/23/gdpr-mozilla/<br>
+       [2] https://www.fastcompany.com/40577794/google-and-facebook-are-already-accused-of-breaking-gdpr-laws
+     </small>
+     </section>
+   </div></div>
+
+   <div id="gdpr_cookies" class="slide shout"><div>
+    <section>
+      <header>
+      </header>
+      <img src="pictures/gdpr_cookies.png"
+	       class="middle shadow" height="500">
+   </section>
+  </div></div>
+
+   <div id="alternativas" class="slide"><div>
+      <section>
+        <header>
+        <h1>Hay una alternativa para todo!</h1>
+        </header>
+        <ul>
+     <li>DuckDuckGo (Google)</li>
+     <li>Firefox en navegación privada, Firefox Focus o Tor (Google Chrome)</li>
+     <li>Facebook Container y demás addons anti-rastreo[1]</li>
+     <li>Protonmail y Signal (Gmail y Whatsapp)</li>
+     <li>Administrador de contraseñas (Hoja de papel)</li>
+     </ul>
+     <small class="credits">
+ [1] https://blog.mozilla.org/firefox/make-your-firefox-browser-a-privacy-superpower-with-these-extensions/
+     </small>
+      </section>
+    </div></div>
+
+  <div id="mexicopicsTor" class="slide cover h"><div>
+      <section>
+        <img src="pictures/EFF_TOR.png"
+             class="middle">
+     </section>
+    </div></div>
+
+
+  <div id="recomendamos1" class="slide"><div>
+    <section>
+      <header>
+        <h3>Recomendamos</h3>
+        </header>
+         <ul  class="inner">
+        <li class="active">Crea contraseñas seguras (passphrases) de más de 12 caracteres y cámbialas periodicamente.</li>
+		  <li>Usa un antivirus.</li>
+		  <li>Evita usar software pirateado, pues puede ser malicioso.</li>
+		  <li>Evita transmitir información sensible dentro de una página sin https.</li>
+      <li>Cuida lo que publicas en Internet, el Internet no olvida.</li>
+      </ul>
+    </section>
+  </div></div>
+
+  <div id="recomienda_snowden" class="slide"><div>
+    <section>
+      <header>
+        <h3>Recomendaciones de Edward Snowden para mayor privacidad</h3>
+        </header>
+         <ul  class="inner">
+        <li class="active"></li>
+		  <li>Evita servicios populares como Google, Facebook y Dropbox.</li>
+		  <li>Encripta tu disco duro.</li>
+		  <li>Evita el rastreo en linea con plug-ins para tu navegador.</li>
+		  <li>Encripta tus comunicaciones en chat e email.</li>
+      <li>Usa Tor para navegar en Internet.</li>
+      </ul>
+    </section>
+  </div></div>
+
+  <div id="informarse1" class="slide shout"><div>
+      <section>
+        <header>
+          <h2>DIFUNDE Y COMPARTE</h2>
+        </header>
+        <footer class="notes">
+        </footer>
+      </section>
+    </div></div>
+
+  <div id="para_cerrar" class="slide"><div>
+    <section>
+      <header>
+        <h3>Para cerrar</h3>
+        </header>
+         <ul  class="inner">
+        <li class="active">“Un cierto grado de vigilancia para reforzar el cumplimiento de la ley y los servicios de inteligencia, concebido adecuadamente,
+        tiene valor para mantenernos seguros. Pero cuando esta es demasiado amplia, viola los derechos de privacidad de millones de personas inocentes,
+        y puede llegar incluso a socavar nuestra propia seguridad”.
+
+			— Chris Riley, Head of Public Policy, Mozilla
+        .</li>
+      </ul>
+    </section>
+  </div></div>
+
+  <div id="thanks" class="slide"><div>
+    <section>
+      <header>
+        <h2>¡Gracias!</h2>
+      </header>
+      <img src="pictures/redpanda.jpg" class="right" alt="Red panda (Firefox)">
+      <ul class="nobull">
+        <li>Lucio Chávez, Edgar Osorio y Odin Mojica.</li>
+        <li><a href="http://twitter.com/odinm">@odinm</a></li>
+        <li>odinmojica@mozilla-mexico.org</li><br>
+        <li><strong>Privacidad, seguridad y vigilancia en Internet</strong></li><br>
+      </ul>
+      <img src="pictures/cc2.jpg" class="right" height="75"><br>
+     <small class="credits">
+      <li>Esta obra está bajo una licencia de Creative Commons.</li>
+   	<li>Atribución. Debes reconocer la autoría de la obra en los términos especificados por el propio autor o licenciante</li>
+      </small>
+    </section>
+  </div></div>
+
+  <!--
+    To hide progress bar from entire presentation
+    just remove “progress” element.
+    -->
+  <div class="progress"><div></div></div>
+  <script src="scripts/script.js"></script>
+  <!-- Copyright © 2010–2012 Vadim Makeev — pepelsbey.net -->
+</body>
+</html>
+
